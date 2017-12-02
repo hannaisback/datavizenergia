@@ -1,0 +1,211 @@
+[
+    {
+      "Column" : "0",
+      "Central" : "Solar San Andrés",
+      "promedio_diario_mes" : "146.816129032",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "1",
+      "Central" : "Solar Llano de Llampos",
+      "promedio_diario_mes" : "530.635483871",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "2",
+      "Central" : "Solar Chañares",
+      "promedio_diario_mes" : "192.302903226",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "3",
+      "Central" : "Solar Chuchiñi",
+      "promedio_diario_mes" : "13.0883870968",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "4",
+      "Central" : "Solar Luz del Norte",
+      "promedio_diario_mes" : "722.272903226",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "5",
+      "Central" : "Solar PV Salvador",
+      "promedio_diario_mes" : "362.558064516",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "6",
+      "Central" : "Solar Diego de Almagro",
+      "promedio_diario_mes" : "155.432903226",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "7",
+      "Central" : "Solar Santa Cecilia",
+      "promedio_diario_mes" : "12.6712903226",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "8",
+      "Central" : "Solar Hormiga Solar",
+      "promedio_diario_mes" : "11.3606451613",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "9",
+      "Central" : "Solar Javiera",
+      "promedio_diario_mes" : "331.4",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "10",
+      "Central" : "Solar PSF Lomas Coloradas",
+      "promedio_diario_mes" : "9.38193548387",
+      "dias_riesgosos" : 0
+    },
+    {
+      "Column" : "11",
+      "Central" : "Solar Lalackama",
+      "promedio_diario_mes" : "309.362258065",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "12",
+      "Central" : "Solar Lalackama 2",
+      "promedio_diario_mes" : "93.3129032258",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "13",
+      "Central" : "Solar PSF Pama",
+      "promedio_diario_mes" : "11.1409677419",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "14",
+      "Central" : "Solar Pampa Solar Norte",
+      "promedio_diario_mes" : "336.65483871",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "15",
+      "Central" : "Solar Carrera Pinto",
+      "promedio_diario_mes" : "464.380322581",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "16",
+      "Central" : "Solar Santa Julia",
+      "promedio_diario_mes" : "15.8293548387",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "17",
+      "Central" : "Solar El Romero",
+      "promedio_diario_mes" : "796.512258065",
+      "dias_riesgosos" : 1
+    },
+    {
+      "Column" : "18",
+      "Central" : "Solar Bellavista",
+      "promedio_diario_mes" : "11.655483871",
+      "dias_riesgosos" : 2
+    },
+    {
+      "Column" : "19",
+      "Central" : "Solar La Silla",
+      "promedio_diario_mes" : "9.7964516129",
+      "dias_riesgosos" : 2
+    },
+    {
+      "Column" : "20",
+      "Central" : "Solar Conejo",
+      "promedio_diario_mes" : "702.993548387",
+      "dias_riesgosos" : 2
+    },
+    {
+      "Column" : "21",
+      "Central" : "Solar Quilapilún",
+      "promedio_diario_mes" : "384.19516129",
+      "dias_riesgosos" : 2
+    },
+    {
+      "Column" : "22",
+      "Central" : "Solar Loma Los Colorados",
+      "promedio_diario_mes" : "3.78387096774",
+      "dias_riesgosos" : 3
+    },
+    {
+      "Column" : "23",
+      "Central" : "Solar Luna",
+      "promedio_diario_mes" : "15.7419354839",
+      "dias_riesgosos" : 3
+    },
+    {
+      "Column" : "24",
+      "Central" : "Solar Sol",
+      "promedio_diario_mes" : "15.835483871",
+      "dias_riesgosos" : 3
+    },
+    {
+      "Column" : "25",
+      "Central" : "Solar Cordillerilla",
+      "promedio_diario_mes" : "3.96709677419",
+      "dias_riesgosos" : 3
+    },
+    {
+      "Column" : "26",
+      "Central" : "Solar Piloto Solar Cardones",
+      "promedio_diario_mes" : "0.657741935484",
+      "dias_riesgosos" : 4
+    },
+    {
+      "Column" : "27",
+      "Central" : "Solar Las Araucarias",
+      "promedio_diario_mes" : "0.391612903226",
+      "dias_riesgosos" : 4
+    },
+    {
+      "Column" : "28",
+      "Central" : "Solar Los Loros",
+      "promedio_diario_mes" : "101.506451613",
+      "dias_riesgosos" : 6
+    },
+    {
+      "Column" : "29",
+      "Central" : "Solar Til Til",
+      "promedio_diario_mes" : "9.3735483871",
+      "dias_riesgosos" : 7
+    },
+    {
+      "Column" : "30",
+      "Central" : "Solar Techos de Altamira",
+      "promedio_diario_mes" : "0.250322580645",
+      "dias_riesgosos" : 7
+    },
+    {
+      "Column" : "31",
+      "Central" : "Solar Las Mollacas",
+      "promedio_diario_mes" : "4.30935483871",
+      "dias_riesgosos" : 22
+    },
+    {
+      "Column" : "32",
+      "Central" : "Solar Doña Carmen Solar",
+      "promedio_diario_mes" : "27.6441935484",
+      "dias_riesgosos" : 24
+    },
+    {
+      "Column" : "33",
+      "Central" : "Solar Las Terrazas",
+      "promedio_diario_mes" : "1.63741935484",
+      "dias_riesgosos" : 27
+    },
+    {
+      "Column" : "34",
+      "Central" : "Solar La Chapeana",
+      "promedio_diario_mes" : "1.22451612903",
+      "dias_riesgosos" : 28
+    }]
